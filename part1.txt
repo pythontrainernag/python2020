@@ -1,0 +1,115 @@
+program: A program is a set of instructions given to CPU to perform a particular task 
+
+we are giving the instructions in some type of english words
+CPU can understand only Binary language(01010111)
+
+we need to convert english laguage to binary language 
+compiler and interpreter, This tools are used to convert to Binary laguage
+
+The language which uses compiler to convert to binary/compiled/byte language programming laguage
+
+uses of interpreter is nothing scripting 
+
+If I had program, I should be able to execute it in windows 64/32, linux 32/64, mac 32/64 then platform independent 
+
+If it is platform dependent, I need more number of employees
+
+I have deveoped an application like VLC player. I want to sell it.
+
+If I provide complete SC to customer, If my customer is programming expert
+he will go through the code, he will resolve the bugs(issues/errors).
+After resolving the bugs, he will release a new product into market saying myplayer 
+
+I can use python as a programming/scripting language
+
+programming language(compiler): C, C++, Java, python 
+scripting laguage(interpreter): python, perl, vb scripting, shell scripting etc.
+
+Why/when should I prefer python than other languages 
+
+It completely depends upon python features:
+
+Open source:Free to use, we can develop application and sell them
+we can get source code and modify it in our local environment.little Lack of security, where developers/security team need to spend some extra time to implement security features
+
+MS office came from open office(open source) with extra features included by MS
+RHEL linux machine came from Cent OS linux with extra security and enterprise support 
+
+web development:
+I had a customer, who need a website and will 15000 to me for developing website 
+.net (non open source ) I don't write HTML code here because everything is drag and drop. It will take for development ---> salary 2k, infrastructure 1k and license 5k
+python: 2 months ---> salaries: 4k and infrastructure for 2k
+Java: 3 months 
+using 2 employees whose salaries are 1K per month 
+
+Standard library:
+why is this an important factor 
+why python is only being used in Machine learning/DS, why not java ---> liraries
+MC are already in python and they are available
+ 
+ 
+ Easy to read/understand/maintain/development 
+ In case of startups 
+ notice period is 90 days:
+ I resigned my job. After resignation I need to serve my notice period 
+ 30 days. After 30 days the new person is able to replace old person.
+ 
+ embeddable/extendable:
+		Is C is more efficient or Java is more efficient 
+		C provides 95% of effiency
+		Java provides 90%
+		C implements 84% of security
+		Java implements 92% of security 
+	python can be integrated with other languages 
+	 Java+python ---> jython
+	 c+python  ----> cython  --> python interpreter(not C compiler)
+	 .net+python ----> ironpython 
+
+pandas, numpy, sklearn, keras, tensorflow(google)
+
+Identifiers
+	Naming convention of python object. python object can be variable Name/ Function Name / class Name/ anything in the python.
+Rules of identifiers:
+	1. It should contain only numbers, alphabets and _
+	2. It should not start with numbers 
+	3. It should not contain only numbers 
+	4. Length of the Name: length of the name can be infinite but it always recommended to use valid names
+	5. using the predefined as identifiers: it's not recommended
+	6. we cannot use keywords as identifiers
+		English language, cat dog elephant etc. and also is, were, etc.
+		By showing cat, can I say it as an  elephant.
+		In programming languages also, we will have some reversed words.
+	
+variable and data types:
+	Our target is to complete variables, datatypes in depth, loops and conditional statements by the end of next 
+
+
+variables, datatypes and operators
+
+variable: 
+a = 10
+Named memory location. alias named memory location. 
+A variable is used to refer a memory location where data is stored
+
+declaration of variable
+single variable single value
+single variable multiple values
+multiple variables multiple values 
+multiple variables single values 
+
+Datatype: 
+	It tells what type of data has been stored in memory location and what are the operations you can perform on that 
+	
+	python is a dynamic typing programming language 
+	
+	int a = 10; ---> whenever you are declaring a variable, you are specifying the data type
+	float f = 20.5;
+
+
+ 
+	 
+
+	
+ 
+
+

@@ -1,0 +1,30 @@
+floats ---> 10.28, 15.36
+10,20,50,
+boolean ---> True and False
+
+l = [10, 20, 30]
+
+operators:
+Arthematic ---> +, -, *, /, //, %, **
+relational ---> ==, !=, >=, <=, >, <
+logical ---> and, or, not 
+assignment ---> =, +=, -=, *=, /=, //= etc.
+bitwise operators ---> &, |, ^
+identical operators  is, is not 
+membership operators in, not in 
+
+10, 25   ---> 25/10
+"nag", "python"  ----> "nag"/"python"
+
+10+23 ----> 33
+"nag"+"python" ----> "nagpython"
+
+a+ib 
+
+path setting:
+	our python.exe is a python interpreter. we need access from any folder/location. So we will be adding python.exe file folder/location to environmental variables
+	
+
+How to execute a python program?
+	Interactive: First we will trigger up interpreter, then execute the python one by one and verify the results and after completion exit the interpreter. This is used for practice/teaching/Machine Learning/Research
+	script mode: Write down the all python in a file and save it with extension .py. After send file as an argument to python interpreter to execute all python commands. This is used in real time projects
