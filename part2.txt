@@ -10,8 +10,8 @@ relational ---> ==, !=, >=, <=, >, <
 logical ---> and, or, not 
 assignment ---> =, +=, -=, *=, /=, //= etc.
 bitwise operators ---> &, |, ^
-identical operators  is, is not 
-membership operators in, not in 
+identical operators  is, is not ---> not supported by integers and floats
+membership operators in, not in ---> not supported by integers and floats
 
 10, 25   ---> 25/10
 "nag", "python"  ----> "nag"/"python"
@@ -28,3 +28,18 @@ path setting:
 How to execute a python program?
 	Interactive: First we will trigger up interpreter, then execute the python one by one and verify the results and after completion exit the interpreter. This is used for practice/teaching/Machine Learning/Research
 	script mode: Write down the all python in a file and save it with extension .py. After send file as an argument to python interpreter to execute all python commands. This is used in real time projects
+	
+How to read/send values from/to console
+
+5  ---> 101  ---> 1*(2**2)+0*(2**1)+1*(2**0)
+3  ---> 011
+
+1 and 1 --> 1
+0 and 1 --> 0
+1 and 0 --> 0
+---> 001   ---> 1
+
+1 or 1 --> 1
+0 or 1 --> 1
+1 or 0 --> 1
+---> 111   ---> 7
